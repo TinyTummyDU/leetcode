@@ -1,4 +1,4 @@
-package binaryTree;
+package binaryTree.globleVarible;
 
 /**
  * @ClassName: DiameterOfBinaryTree @Description: todo @Author Yuqi Du @Date 2021/11/4 5:57
