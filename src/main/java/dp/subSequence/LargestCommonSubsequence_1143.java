@@ -25,4 +25,9 @@ public class LargestCommonSubsequence_1143 {
     }
     return dp[m][n];
   }
+
+  public static void main(String[] args) {
+
+    System.out.println("hah");
+  }
 }
